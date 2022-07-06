@@ -1,0 +1,228 @@
+body {
+  font-family: 'Finlandica', sans-serif;
+  text-align: center;
+  justify-content: center;
+  margin: 0%;
+}
+
+.intro-section {
+  background-image: url("images/donation13.jpg");
+  background-repeat: no-repeat;
+  margin-top: 0%;
+  background-size: cover;
+  height: 800px;
+  padding-bottom: 200px;
+  margin-bottom: 150px;
+}
+
+.intro {
+  padding-top: 1%;
+}
+
+.intro-header {
+  font-size: 100px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.intro-cause {
+  font-size: 50px;
+  font-weight: bold;
+  color: aliceblue;
+  padding: 0px 0px 60px 0px;
+}
+
+.donate-now-btn {
+  color: aliceblue;
+  font-size: 25px;
+  font-weight: bold;
+  background-image: linear-gradient(tomato, red);
+  padding: 24px;
+  text-align: justify;
+  border-radius: 10px;
+  margin-top: 100px;
+  border: none;
+}
+
+.donate-section {
+  margin-top: 2%;
+  height: 600px;
+  width: 1200px;
+  text-align: center;
+  padding-bottom: 200px;
+  padding-left: 300px;
+}
+
+.donate-today {
+  padding-top: 1%;
+}
+
+.donate-today-header {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.donate-cause {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0px 0px 60px 0px;
+}
+
+.amount-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px 0px 60px 0px;
+  margin-bottom: 20px;
+}
+
+.amount {
+  background-color: azure;
+  padding: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.default-amount {
+  background-color: rgb(246, 217, 223);
+  color: tomato;
+  padding: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  border: 3px solid orangered;
+}
+
+.custom-amount {
+  text-align: center;
+  font-size: 16px;
+  font-weight: lighter;
+  border: none;
+  border-bottom: 1px solid gainsboro;
+  width: 1000px;
+}
+
+.plan-section {
+  margin-top: 2%;
+  height: 600px;
+  width: 1200px;
+  text-align: center;
+  padding-bottom: 200px;
+  padding-left: 300px;
+}
+
+.plan {
+  padding-top: 1%;
+}
+
+.plan-header {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.plan-cause {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0px 0px 60px 0px;
+}
+
+.plan-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px 0px 60px 0px;
+  margin-bottom: 20px;
+}
+
+.food {
+  height: 200px;
+  width: 300px;
+  background-color: lightblue;
+  padding: 50px 2px 2px 2px;
+  margin-top: 20px;
+}
+
+.shelter {
+  height: 200px;
+  width: 300px;
+  background-color: lightgreen;
+  padding: 50px 2px 2px 2px;
+  margin-top: 20px;
+}
+
+.medicine {
+  height: 200px;
+  width: 300px;
+  background-color: lightpink;
+  padding: 50px 2px 2px 2px;
+  margin-top: 20px;
+}
+
+.subscribe-section {
+  margin-top: -2%;
+  height: 400px;
+  padding-bottom: 200px;
+}
+
+.subscribe-header {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.subscribe-cause {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0px 0px 60px 0px;
+}
+
+.email-container {
+  width: 800px;
+  background-color: lightyellow;
+  padding: 100px 2px 100px 2px;
+  margin-top: 20px;
+  margin-left: 25%;
+}
+
+.email {
+  height: 46px;
+  width: 400px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: lighter;
+  border: none;
+  border-bottom: 1px solid gainsboro;
+}
+
+.sign-up-btn {
+  height: 50px;
+  width: 150px;
+  background-image: linear-gradient(red, tomato);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  margin-left: -5px;
+}
+
+.footer-section {
+  height: 150px;
+  background-color: black;
+}
+
+.footer-header {
+  color: rgb(199, 56, 56);
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+.footer-cause {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: -20px;
+}
